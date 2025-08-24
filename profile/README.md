@@ -15,7 +15,7 @@ When something looks impossible, that’s our starting point.
 - Build tools, apps, and experiments that refuse to stay in the box  
 
 ### Motto
-` *“Chaos isn’t a bug—it’s the feature.”* `
+` “Chaos isn’t a bug—it’s the feature.” `
 
 ## Join the Frenzy
 Want to collaborate, contribute, or just watch us break stuff in style?  
